@@ -23,7 +23,7 @@ import tensorflow as tf
 import os
 
 # Load the TensorBoard notebook extension.
-get_ipython().run_line_magic('load_ext', 'tensorboard')
+# get_ipython().run_line_magic('load_ext', 'tensorboard')  #### Need to comment this out for batch runs!
 
 
 # In[3]:
@@ -211,7 +211,7 @@ model.fit(train_dataset, epochs=EPOCHS, callbacks=callbacks)
 
 
 # Check the checkpoint directory.
-get_ipython().system('ls {checkpoint_dir}')
+# get_ipython().system('ls {checkpoint_dir}')  #### Need to comment this out for batch runs!
 
 
 # In[23]:
