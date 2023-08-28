@@ -12,7 +12,7 @@ This tutorial is intended to help get you up and running training models on HiPe
 
 ## Start with the Jupyter notebook
 
-Get started running through the notebook and instructions here: [distributed_mnist.ipynb]
+Get started running through the notebook and instructions here: [distributed_mnist.ipynb](distributed_mnist.ipynb)
 
 ## Switch to using batch jobs
 
