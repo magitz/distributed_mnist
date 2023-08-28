@@ -34,4 +34,6 @@ We can submit that to the HiPerGator batch system with another script.
 
 ## Congrats!
 
-You have now run
+You have now run parallel model training in a Jupyter notebook and via the command line!
+
+I hope this helps you get started with doing more amazing things!
