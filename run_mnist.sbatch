@@ -13,7 +13,7 @@
 
 pwd; hostname; date           # Print some useful info
 
-module load tensorflow        # Be sure to load the tensorflow module
+module load tensorflow/2.7.0        # Be sure to load the tensorflow module
 
 echo "Running mnist script"
 
